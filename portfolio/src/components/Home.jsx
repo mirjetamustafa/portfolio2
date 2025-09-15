@@ -11,7 +11,7 @@ function Home() {
         <div className="bg-[#f5ede7] h-110 w-90 md:mt-20 md:-mr-20">
           <div className="flex justify-center">
             <img
-              src="./img/1.jpg"
+              src="./img/2.png"
               alt=""
               width={150}
               className="rounded-full mt-11"

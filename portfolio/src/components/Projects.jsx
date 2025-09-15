@@ -28,7 +28,7 @@ function Projects() {
             </a>
 
             <a
-              href="https://papaya-lamington-e122df.netlify.app/"
+              href="https://calm-llama-fb44d6.netlify.app/"
               target="_blank"
               className="bg-blue-600 border border-blue-600 mt-5 text-white font-bold text-sm rounded-full px-4 py-1 hover:text-black hover:bg-[#e8dccf]"
             >
@@ -36,7 +36,7 @@ function Projects() {
             </a>
 
             <a
-              href="https://papaya-lamington-e122df.netlify.app/"
+              href="https://graceful-cobbler-38800c.netlify.app/"
               target="_blank"
               className="bg-blue-600 border border-blue-600 mt-5 text-white font-bold text-sm rounded-full px-4 py-1 hover:text-black hover:bg-[#e8dccf]"
             >
@@ -44,11 +44,26 @@ function Projects() {
             </a>
 
             <a
-              href="https://papaya-lamington-e122df.netlify.app/"
+              href="https://glittery-axolotl-610370.netlify.app/"
               target="_blank"
               className="bg-blue-600 border border-blue-600 mt-5 text-white font-bold text-sm rounded-full px-4 py-1 hover:text-black hover:bg-[#e8dccf]"
             >
               Luxury Cars
+            </a>
+            <a
+              href="https://joyful-souffle-f73786.netlify.app/"
+              target="_blank"
+              className="bg-blue-600 border border-blue-600 mt-5 text-white font-bold text-sm rounded-full px-4 py-1 hover:text-black hover:bg-[#e8dccf]"
+            >
+              TravelHub
+            </a>
+
+            <a
+              href="https://peaceful-ganache-5e1461.netlify.app/"
+              target="_blank"
+              className="bg-blue-600 border border-blue-600 mt-5 text-white font-bold text-sm rounded-full px-4 py-1 hover:text-black hover:bg-[#e8dccf]"
+            >
+              Chat App
             </a>
           </div>
         </div>
